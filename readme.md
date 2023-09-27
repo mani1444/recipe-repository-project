@@ -1,3 +1,10 @@
+<p align="center">
+<img src=https://img.shields.io/github/issues/logicguy1/The-Cookbook?style=flat-square&logo=appveyor&color=informational />
+<img src=https://img.shields.io/github/license/logicguy1/The-Cookbook?style=flat-square&logo=appveyor&color=informational />
+<img src=https://img.shields.io/github/stars/logicguy1/The-Cookbook?style=flat-square&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/forks/logicguy1/The-Cookbook?style=flat-square&logo=appveyor&color=blue />
+</p>
+
 Recipe KINGDOM
 
 Welcome to the Recipe Repository! This repository is a community-driven collection of delicious recipes from around the world. Whether you're a seasoned chef or a kitchen newbie, you can contribute your favorite recipes and discover new ones here.

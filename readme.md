@@ -1,4 +1,4 @@
-Welcome to Recipe Kingdom!
+Recipe KINGDOM
 
 Welcome to the Recipe Repository! This repository is a community-driven collection of delicious recipes from around the world. Whether you're a seasoned chef or a kitchen newbie, you can contribute your favorite recipes and discover new ones here.
 

@@ -89,6 +89,8 @@ By participating in this project, you'll also gain valuable experience with Git,
 
 Questions and Feedback
 If you have questions or feedback regarding this repository, please don't hesitate to open an issue or contact the repository owner.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 Happy cooking and sharing!
 
